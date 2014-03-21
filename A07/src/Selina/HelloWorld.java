@@ -7,4 +7,8 @@ public class HelloWorld {
 		public static String hallo(String gruﬂ) {
 			return gruﬂ;
 		}
+		
+		public static String hallo() {
+			return "zweiter branch keine ahnung selina";
+		}
 }
